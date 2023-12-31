@@ -1,0 +1,7 @@
+{
+  "titleText" : "Testing Title",
+  "descriptionText" : "This is a test description.",
+  "priceText" : "100",
+  "contactText" : "0812345678",
+  "imagePath" : "cypress/fixtures/example.png"
+}
